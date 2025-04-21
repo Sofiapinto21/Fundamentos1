@@ -1,0 +1,15 @@
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.AssemblyInfo.cs
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.sourcelink.json
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\bin\Debug\net9.0\GestorTareas.exe
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\bin\Debug\net9.0\GestorTareas.deps.json
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\bin\Debug\net9.0\GestorTareas.runtimeconfig.json
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\bin\Debug\net9.0\GestorTareas.dll
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\bin\Debug\net9.0\GestorTareas.pdb
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.dll
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\refint\GestorTareas.dll
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.pdb
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\GestorTareas.genruntimeconfig.cache
+C:\Users\sofio\IdeaProjects\Ejercicios Programación\Fundamentos1\GestorTareas\obj\Debug\net9.0\ref\GestorTareas.dll
